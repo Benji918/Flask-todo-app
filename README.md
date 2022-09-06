@@ -1,8 +1,8 @@
 # Flask-todo-app
 I made a Todo web application with Flask framework to manage my tasks and projects to increase my productivity☺
 
-# Screenshots
-
+## Screenshots
+![Image description](https://github.com/Benji918/Flask-todo-app/todo image.jpg)
 
 # Installation:
 `pip install flask`
